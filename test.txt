@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 change master
+=======
+create a new branch -- featural
+>>>>>>> featurel
 create a new branch
 add test3
 add test4
 add test5kkk
 add test6..:
+handle conflict
