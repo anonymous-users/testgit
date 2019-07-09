@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+dev builded
+<<<<<< HEAD
 change master
 =======
 create a new branch -- featural
